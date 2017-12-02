@@ -1,3 +1,3 @@
-# hello-world
+# First try
 introduction
-I am studying how to program
+Getting started
